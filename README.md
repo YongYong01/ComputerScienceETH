@@ -24,7 +24,7 @@ Make sure you have the necessary software and tools installed to run the code. I
 ## Directory Structure
 
 - **/week1**
-  - [Exercise 1]([week1/exercise1/](https://github.com/YongYong01/ComputerScienceETH/blob/main/Exercise1-Task1-HelloWorld.cpp)): Brief description and link to the solution.
+  - [Exercise 1](https://github.com/YongYong01/ComputerScienceETH/blob/main/Exercise1-Task1-HelloWorld.cpp): Brief description and link to the solution.
   - [Exercise 2](week1/exercise2/): Brief description and link to the solution.
 
 - **/week2**
