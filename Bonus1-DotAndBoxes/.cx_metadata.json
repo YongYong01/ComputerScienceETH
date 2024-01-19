@@ -1,0 +1,13 @@
+{
+  "grid.h": "r",
+  "pictures": "r",
+  "pictures/vertical_00.svg": "r",
+  "pictures/horizontal_idx.svg": "r",
+  "pictures/isboxdrawn1.svg": "r",
+  "pictures/horizontal_00.svg": "r",
+  "pictures/horizontal_21.svg": "r",
+  "pictures/vertical_12.svg": "r",
+  "pictures/isboxdrawn0.svg": "r",
+  "pictures/vertical_idx.svg": "r",
+  "grid.cpp": "r"
+}
