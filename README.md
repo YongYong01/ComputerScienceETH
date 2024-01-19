@@ -30,12 +30,10 @@ Make sure you have the necessary software and tools installed to run the code. I
 - **/week2**
   - [Project](week2/project/): Overview of the project and link to the complete solution.
 
-- **/assignments**
+- **/Bonus**
   - [Assignment 1](assignments/assignment1/): Description of the assignment and link to the solution.
   - [Assignment 2](assignments/assignment2/): Description of the assignment and link to the solution.
 
-- **/final-project**
-  - [Final Project](final-project/): Description of the final project and link to the complete solution.
 
 ## Contributing
 
