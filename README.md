@@ -24,15 +24,16 @@ Make sure you have the necessary software and tools installed to run the code. I
 ## Directory Structure
 
 - **/week1**
-  - [Exercise 1](https://github.com/YongYong01/ComputerScienceETH/blob/main/Exercise1-Task1-HelloWorld.cpp): Brief description and link to the solution.
+  - [Exercise 1](https://github.com/YongYong01/ComputerScienceETH/blob/main/Exercise01-Task1-HelloWorld): Brief description and link to the solution.
   - [Exercise 2](week1/exercise2/): Brief description and link to the solution.
 
 - **/week2**
   - [Project](week2/project/): Overview of the project and link to the complete solution.
 
 - **/Bonus**
-  - [Assignment 1](assignments/assignment1/): Description of the assignment and link to the solution.
-  - [Assignment 2](assignments/assignment2/): Description of the assignment and link to the solution.
+  - [Bonus 1](https://github.com/YongYong01/ComputerScienceETH/tree/main/Bonus1-DotAndBoxes): Description of the assignment and link to the solution.
+  - [Bonus 2](https://github.com/YongYong01/ComputerScienceETH/tree/main/Bonus2-MagicGrowing): Description of the assignment and link to the solution.
+  - [Bonus 3](https://github.com/YongYong01/ComputerScienceETH/tree/main/Bonus3-MinimaxAlgorithm): Description of the assignment and link to the solution.
 
 
 ## Contributing
