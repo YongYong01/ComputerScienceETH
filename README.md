@@ -33,7 +33,7 @@ Make sure you have the necessary software and tools installed to run the code. I
 - **/Bonus**
   - [Bonus 1](https://github.com/YongYong01/ComputerScienceETH/tree/main/Bonus1-DotAndBoxes): Description of the assignment and link to the solution.
   - [Bonus 2](https://github.com/YongYong01/ComputerScienceETH/tree/main/Bonus2-MagicGrowing): Description of the assignment and link to the solution.
-  - [Bonus 3](https://github.com/YongYong01/ComputerScienceETH/tree/main/Bonus3-MinmaxAlgorithm): Description of the assignment and link to the solution.
+  - [Bonus 3](https://github.com/YongYong01/ComputerScienceETH/tree/main/Bonus3-MinimaxAlgorithm): Description of the assignment and link to the solution.
 
 
 ## Contributing
