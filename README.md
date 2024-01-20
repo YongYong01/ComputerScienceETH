@@ -47,6 +47,13 @@ If you would like to contribute to this repository, follow the steps below:
 
 Please adhere to the project's coding standards and follow the contribution guidelines.
 
+## Usefull
+  - [Visualize your code](https://pythontutor.com/cpp.html#mode=edit): Description of the assignment and link to the solution.
+  - [C++ Cheatsheet](https://quickref.me/cpp.html): Description of the assignment and link to the solution.
+  - [CPP Bible](https://en.cppreference.com/w/): Description of the assignment and link to the solution.
+  - [Operator Precedence](https://en.cppreference.com/w/cpp/language/operator_precedence): Description of the assignment and link to the solution.
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE), meaning you are free to use, modify, and distribute the code as long as you include the original license.
