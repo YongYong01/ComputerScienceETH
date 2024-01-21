@@ -31,9 +31,9 @@ Make sure you have the necessary software and tools installed to run the code. I
   - [Project](week2/project/): Overview of the project and link to the complete solution.
 
 - **/Bonus**
-  - [Bonus 1](https://github.com/YongYong01/ComputerScienceETH/tree/main/Bonus1-DotAndBoxes): Description of the assignment and link to the solution.
-  - [Bonus 2](https://github.com/YongYong01/ComputerScienceETH/tree/main/Bonus2-MagicGrowing): Description of the assignment and link to the solution.
-  - [Bonus 3](https://github.com/YongYong01/ComputerScienceETH/tree/main/Bonus3-MinimaxAlgorithm): Description of the assignment and link to the solution.
+  - [Bonus 1](https://github.com/YongYong01/ComputerScienceETH/tree/main/Bonus1-DotAndBoxes): Dot and Boxes
+  - [Bonus 2](https://github.com/YongYong01/ComputerScienceETH/tree/main/Bonus2-MagicGrowing): Magic Growing
+  - [Bonus 3](https://github.com/YongYong01/ComputerScienceETH/tree/main/Bonus3-MinimaxAlgorithm): Minimax Algorithm
 
 
 ## Contributing
@@ -47,7 +47,7 @@ If you would like to contribute to this repository, follow the steps below:
 
 Please adhere to the project's coding standards and follow the contribution guidelines.
 
-## Usefull
+## Useful
   - [Visualize your code](https://pythontutor.com/cpp.html#mode=edit): Description of the assignment and link to the solution.
   - [C++ Cheatsheet](https://quickref.me/cpp.html): Description of the assignment and link to the solution.
   - [CPP Bible](https://en.cppreference.com/w/): Description of the assignment and link to the solution.
